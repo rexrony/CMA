@@ -1,0 +1,40 @@
+{
+  "name": "cma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "autoprefixer": "^9.7.3",
+    "bindings": "^1.5.0",
+    "bootstrap": "^4.5.0",
+    "browser-sync": "^2.26.7",
+    "browserslist": "^4.12.0",
+    "caniuse-lite": "^1.0.30001081",
+    "cssnano": "^4.1.10",
+    "file-uri-to-path": "^1.0.0",
+    "fsevents": "^1.2.11",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexrony/CMA.git"
+  },
+  "author": "ronald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rexrony/CMA/issues"
+  },
+  "homepage": "https://github.com/rexrony/CMA#readme"
+}
